@@ -1,0 +1,722 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000040000000000000001"
+    },
+    "student": {
+      "$oid": "de0000030000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000001:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.1,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000002"
+    },
+    "student": {
+      "$oid": "de0000030000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000002:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.4,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000003"
+    },
+    "student": {
+      "$oid": "de0000030000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000003:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.7,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000004"
+    },
+    "student": {
+      "$oid": "de0000030000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000004:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000005"
+    },
+    "student": {
+      "$oid": "de0000030000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000005:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.3,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000006"
+    },
+    "student": {
+      "$oid": "de0000030000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000006:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.6,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000007"
+    },
+    "student": {
+      "$oid": "de0000030000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000007:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.9,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000008"
+    },
+    "student": {
+      "$oid": "de0000030000000000000008"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000008:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 9.2,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000009"
+    },
+    "student": {
+      "$oid": "de0000030000000000000009"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000009:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 9.5,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000a"
+    },
+    "student": {
+      "$oid": "de000003000000000000000a"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000a:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.1,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000b"
+    },
+    "student": {
+      "$oid": "de000003000000000000000b"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000b:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.4,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000c"
+    },
+    "student": {
+      "$oid": "de000003000000000000000c"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000c:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.7,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000d"
+    },
+    "student": {
+      "$oid": "de000003000000000000000d"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000d:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000e"
+    },
+    "student": {
+      "$oid": "de000003000000000000000e"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000e:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.3,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000000f"
+    },
+    "student": {
+      "$oid": "de000003000000000000000f"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000f:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.6,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000010"
+    },
+    "student": {
+      "$oid": "de0000030000000000000010"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000010:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.9,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000011"
+    },
+    "student": {
+      "$oid": "de0000030000000000000011"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000011:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 9.2,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000012"
+    },
+    "student": {
+      "$oid": "de0000030000000000000012"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000012:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 9.5,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000013"
+    },
+    "student": {
+      "$oid": "de0000030000000000000013"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000013:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.1,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000014"
+    },
+    "student": {
+      "$oid": "de0000030000000000000014"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000014:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.4,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000015"
+    },
+    "student": {
+      "$oid": "de0000030000000000000015"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000015:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 7.7,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000016"
+    },
+    "student": {
+      "$oid": "de0000030000000000000016"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000016:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000017"
+    },
+    "student": {
+      "$oid": "de0000030000000000000017"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000017:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.3,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000018"
+    },
+    "student": {
+      "$oid": "de0000030000000000000018"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000018:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.6,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000040000000000000019"
+    },
+    "student": {
+      "$oid": "de0000030000000000000019"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000019:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "eligible",
+    "cgpa": 8.9,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000001a"
+    },
+    "student": {
+      "$oid": "de000003000000000000001a"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001a:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "pending",
+    "cgpa": 9.2,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000001b"
+    },
+    "student": {
+      "$oid": "de000003000000000000001b"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001b:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "pending",
+    "cgpa": 9.5,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000001c"
+    },
+    "student": {
+      "$oid": "de000003000000000000001c"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001c:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "pending",
+    "cgpa": 7.1,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000001d"
+    },
+    "student": {
+      "$oid": "de000003000000000000001d"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001d:de0000020000000000000001",
+    "status": "registered",
+    "eligibility": "ineligible",
+    "cgpa": 5.8,
+    "backlogs": 2,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000004000000000000001e"
+    },
+    "student": {
+      "$oid": "de000003000000000000001e"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001e:de0000020000000000000001",
+    "status": "not-registered",
+    "eligibility": "pending",
+    "cgpa": 7.7,
+    "backlogs": 0,
+    "revision": 0,
+    "notes": "Synthetic hackathon record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

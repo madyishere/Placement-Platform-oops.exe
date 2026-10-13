@@ -1,0 +1,402 @@
+[
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000001"
+    },
+    "student": {
+      "$oid": "de0000030000000000000001"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000001"
+    },
+    "key": "de0000030000000000000001:de0000090000000000000001",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000002"
+    },
+    "student": {
+      "$oid": "de0000030000000000000002"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000002"
+    },
+    "key": "de0000030000000000000002:de0000090000000000000002",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000003"
+    },
+    "student": {
+      "$oid": "de0000030000000000000003"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000003"
+    },
+    "key": "de0000030000000000000003:de0000090000000000000003",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000004"
+    },
+    "student": {
+      "$oid": "de0000030000000000000004"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000004"
+    },
+    "key": "de0000030000000000000004:de0000090000000000000004",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000005"
+    },
+    "student": {
+      "$oid": "de0000030000000000000005"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000001"
+    },
+    "key": "de0000030000000000000005:de0000090000000000000001",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000006"
+    },
+    "student": {
+      "$oid": "de0000030000000000000006"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000002"
+    },
+    "key": "de0000030000000000000006:de0000090000000000000002",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000007"
+    },
+    "student": {
+      "$oid": "de0000030000000000000007"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000003"
+    },
+    "key": "de0000030000000000000007:de0000090000000000000003",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000008"
+    },
+    "student": {
+      "$oid": "de0000030000000000000008"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000004"
+    },
+    "key": "de0000030000000000000008:de0000090000000000000004",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000009"
+    },
+    "student": {
+      "$oid": "de0000030000000000000009"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000001"
+    },
+    "key": "de0000030000000000000009:de0000090000000000000001",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000a"
+    },
+    "student": {
+      "$oid": "de000003000000000000000a"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000002"
+    },
+    "key": "de000003000000000000000a:de0000090000000000000002",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000b"
+    },
+    "student": {
+      "$oid": "de000003000000000000000b"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000003"
+    },
+    "key": "de000003000000000000000b:de0000090000000000000003",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000c"
+    },
+    "student": {
+      "$oid": "de000003000000000000000c"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000004"
+    },
+    "key": "de000003000000000000000c:de0000090000000000000004",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000d"
+    },
+    "student": {
+      "$oid": "de000003000000000000000d"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000001"
+    },
+    "key": "de000003000000000000000d:de0000090000000000000001",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000e"
+    },
+    "student": {
+      "$oid": "de000003000000000000000e"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000002"
+    },
+    "key": "de000003000000000000000e:de0000090000000000000002",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a000000000000000f"
+    },
+    "student": {
+      "$oid": "de000003000000000000000f"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000003"
+    },
+    "key": "de000003000000000000000f:de0000090000000000000003",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000010"
+    },
+    "student": {
+      "$oid": "de0000030000000000000010"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000004"
+    },
+    "key": "de0000030000000000000010:de0000090000000000000004",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000011"
+    },
+    "student": {
+      "$oid": "de0000030000000000000011"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000001"
+    },
+    "key": "de0000030000000000000011:de0000090000000000000001",
+    "status": "absent",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000012"
+    },
+    "student": {
+      "$oid": "de0000030000000000000012"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000002"
+    },
+    "key": "de0000030000000000000012:de0000090000000000000002",
+    "status": "absent",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000013"
+    },
+    "student": {
+      "$oid": "de0000030000000000000013"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000003"
+    },
+    "key": "de0000030000000000000013:de0000090000000000000003",
+    "status": "excused",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000a0000000000000014"
+    },
+    "student": {
+      "$oid": "de0000030000000000000014"
+    },
+    "activity": {
+      "$oid": "de0000090000000000000004"
+    },
+    "key": "de0000030000000000000014:de0000090000000000000004",
+    "status": "present",
+    "notes": "Synthetic attendance record.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

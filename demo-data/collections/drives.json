@@ -1,0 +1,362 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000060000000000000001"
+    },
+    "title": "DEMO · Security Analyst · Category B",
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": 800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000002"
+    },
+    "title": "DEMO · ML Engineer · Category A",
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": 1200000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000003"
+    },
+    "title": "DEMO · Threat Researcher · Category A+",
+    "company": {
+      "$oid": "de0000050000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": 1800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000004"
+    },
+    "title": "DEMO · Cloud Intern",
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "I",
+    "status": "open",
+    "ctc": null,
+    "stipend": 25000,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000005"
+    },
+    "title": "DEMO · Forensics Internship + PPO",
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "IF",
+    "status": "open",
+    "ctc": 1000000,
+    "stipend": 30000,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000006"
+    },
+    "title": "DEMO · Platform Internship + confirmed FTE",
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "IF",
+    "status": "open",
+    "ctc": 1400000,
+    "stipend": 35000,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000007"
+    },
+    "title": "DEMO · Data Analyst · Category C",
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": 500000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000008"
+    },
+    "title": "DEMO · Security Engineer · CTC awaiting confirmation",
+    "company": {
+      "$oid": "de0000050000000000000008"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": null,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000060000000000000009"
+    },
+    "title": "DEMO · Junior Analyst · Category B",
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "open",
+    "ctc": 900000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-11-12T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000006000000000000000a"
+    },
+    "title": "DEMO · Archived Recruitment Round",
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "type": "F",
+    "status": "closed",
+    "ctc": 700000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "courses": [
+      "M.Tech. CS",
+      "M.Tech. AI & DS",
+      "B.Tech.–M.Tech. CSE",
+      "M.Sc. CS",
+      "M.Sc. DFIS"
+    ],
+    "minCGPA": 6.5,
+    "maxBacklogs": 0,
+    "deadline": {
+      "$date": "2026-10-10T12:00:08.686Z"
+    },
+    "notes": "Fictional demonstration opportunity.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

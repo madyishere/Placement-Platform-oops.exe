@@ -1,0 +1,78 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000090000000000000001"
+    },
+    "title": "DEMO · Security briefing",
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "startsAt": {
+      "$date": "2026-10-09T12:00:08.686Z"
+    },
+    "type": "talk",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000090000000000000002"
+    },
+    "title": "DEMO · ML aptitude round",
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "startsAt": {
+      "$date": "2026-10-10T12:00:08.686Z"
+    },
+    "type": "test",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000090000000000000003"
+    },
+    "title": "DEMO · Threat research interview",
+    "drive": {
+      "$oid": "de0000060000000000000003"
+    },
+    "startsAt": {
+      "$date": "2026-10-11T12:00:08.686Z"
+    },
+    "type": "interview",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000090000000000000004"
+    },
+    "title": "DEMO · Cloud presentation",
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "startsAt": {
+      "$date": "2026-10-12T12:00:08.686Z"
+    },
+    "type": "presentation",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

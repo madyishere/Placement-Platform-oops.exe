@@ -1,0 +1,1067 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000070000000000000001"
+    },
+    "student": {
+      "$oid": "de0000030000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000001:de0000060000000000000001",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Aarav Mehta",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000002"
+    },
+    "student": {
+      "$oid": "de0000030000000000000002"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000002:de0000060000000000000002",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Diya Rao",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000003"
+    },
+    "student": {
+      "$oid": "de0000030000000000000003"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000003"
+    },
+    "company": {
+      "$oid": "de0000050000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000003:de0000060000000000000003",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Kabir Shah",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000004"
+    },
+    "student": {
+      "$oid": "de0000030000000000000004"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000004:de0000060000000000000004",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Ananya Sen",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000005"
+    },
+    "student": {
+      "$oid": "de0000030000000000000005"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000005"
+    },
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000005:de0000060000000000000005",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Ishaan Nair",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000006"
+    },
+    "student": {
+      "$oid": "de0000030000000000000006"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000006:de0000060000000000000006",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Meera Joshi",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000007"
+    },
+    "student": {
+      "$oid": "de0000030000000000000007"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000007:de0000060000000000000007",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Rohan Das",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000008"
+    },
+    "student": {
+      "$oid": "de0000030000000000000008"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000008:de0000060000000000000001",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Sara Kapoor",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000009"
+    },
+    "student": {
+      "$oid": "de0000030000000000000009"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000009:de0000060000000000000002",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Vivaan Jain",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000a"
+    },
+    "student": {
+      "$oid": "de000003000000000000000a"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000a:de0000060000000000000004",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Aditi Bose",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000b"
+    },
+    "student": {
+      "$oid": "de000003000000000000000b"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000005"
+    },
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000b:de0000060000000000000005",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Arjun Menon",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000c"
+    },
+    "student": {
+      "$oid": "de000003000000000000000c"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000c:de0000060000000000000006",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Tara Iyer",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000d"
+    },
+    "student": {
+      "$oid": "de000003000000000000000d"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000d:de0000060000000000000001",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Neel Verma",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000e"
+    },
+    "student": {
+      "$oid": "de000003000000000000000e"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000e:de0000060000000000000002",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Kavya Sethi",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000000f"
+    },
+    "student": {
+      "$oid": "de000003000000000000000f"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000000f:de0000060000000000000007",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Reyansh Roy",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000010"
+    },
+    "student": {
+      "$oid": "de0000030000000000000010"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000010:de0000060000000000000002",
+    "status": "rejected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Zoya Khan",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000011"
+    },
+    "student": {
+      "$oid": "de0000030000000000000011"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000003"
+    },
+    "company": {
+      "$oid": "de0000050000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000011:de0000060000000000000003",
+    "status": "submitted",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Dev Patel",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000012"
+    },
+    "student": {
+      "$oid": "de0000030000000000000012"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000012:de0000060000000000000004",
+    "status": "shortlisted",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Myra Kulkarni",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000013"
+    },
+    "student": {
+      "$oid": "de0000030000000000000013"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000005"
+    },
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000013:de0000060000000000000005",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Advik Sinha",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000014"
+    },
+    "student": {
+      "$oid": "de0000030000000000000014"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000014:de0000060000000000000006",
+    "status": "rejected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Siya Bhat",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000015"
+    },
+    "student": {
+      "$oid": "de0000030000000000000015"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000015:de0000060000000000000007",
+    "status": "submitted",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Yash Arora",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000016"
+    },
+    "student": {
+      "$oid": "de0000030000000000000016"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000016:de0000060000000000000001",
+    "status": "shortlisted",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Nisha Paul",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000017"
+    },
+    "student": {
+      "$oid": "de0000030000000000000017"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000017:de0000060000000000000002",
+    "status": "selected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Veer Saxena",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000018"
+    },
+    "student": {
+      "$oid": "de0000030000000000000018"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000003"
+    },
+    "company": {
+      "$oid": "de0000050000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000018:de0000060000000000000003",
+    "status": "rejected",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Avni Desai",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000070000000000000019"
+    },
+    "student": {
+      "$oid": "de0000030000000000000019"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de0000030000000000000019:de0000060000000000000004",
+    "status": "submitted",
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Om Malhotra",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000001a"
+    },
+    "student": {
+      "$oid": "de000003000000000000001a"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000008"
+    },
+    "company": {
+      "$oid": "de0000050000000000000008"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001a:de0000060000000000000008",
+    "status": "review",
+    "decision": {
+      "outcome": "MANUAL_REVIEW",
+      "reasons": [
+        {
+          "code": "VERIFICATION_PENDING",
+          "message": "Eligibility verification is pending.",
+          "kind": "review"
+        },
+        {
+          "code": "CTC_UNKNOWN",
+          "message": "Confirm annual CTC before authorizing this opportunity.",
+          "kind": "review"
+        }
+      ]
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Riya Dutta",
+    "candidateCourse": "M.Tech. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000001b"
+    },
+    "student": {
+      "$oid": "de000003000000000000001b"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001b:de0000060000000000000006",
+    "status": "review",
+    "decision": {
+      "outcome": "MANUAL_REVIEW",
+      "reasons": [
+        {
+          "code": "VERIFICATION_PENDING",
+          "message": "Eligibility verification is pending.",
+          "kind": "review"
+        }
+      ]
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Kunal Vyas",
+    "candidateCourse": "M.Tech. AI & DS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000001c"
+    },
+    "student": {
+      "$oid": "de000003000000000000001c"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001c:de0000060000000000000007",
+    "status": "review",
+    "decision": {
+      "outcome": "MANUAL_REVIEW",
+      "reasons": [
+        {
+          "code": "VERIFICATION_PENDING",
+          "message": "Eligibility verification is pending.",
+          "kind": "review"
+        }
+      ]
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Ira Thomas",
+    "candidateCourse": "B.Tech.–M.Tech. CSE",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000001d"
+    },
+    "student": {
+      "$oid": "de000003000000000000001d"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001d:de0000060000000000000001",
+    "status": "rejected",
+    "decision": {
+      "outcome": "BLOCK",
+      "reasons": [
+        {
+          "code": "INELIGIBLE",
+          "message": "Eligibility verification marked this student ineligible.",
+          "kind": "block"
+        },
+        {
+          "code": "COMPANY_CRITERIA",
+          "message": "Company eligibility criteria are not met.",
+          "kind": "block"
+        }
+      ]
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Pranav Sood",
+    "candidateCourse": "M.Sc. CS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000007000000000000001e"
+    },
+    "student": {
+      "$oid": "de000003000000000000001e"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "key": "de000003000000000000001e:de0000060000000000000002",
+    "status": "rejected",
+    "decision": {
+      "outcome": "BLOCK",
+      "reasons": [
+        {
+          "code": "NOT_REGISTERED",
+          "message": "Active placement registration is required.",
+          "kind": "block"
+        },
+        {
+          "code": "VERIFICATION_PENDING",
+          "message": "Eligibility verification is pending.",
+          "kind": "review"
+        }
+      ]
+    },
+    "policy": {
+      "$oid": "de0000010000000000000001"
+    },
+    "candidateName": "Leela Varma",
+    "candidateCourse": "M.Sc. DFIS",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

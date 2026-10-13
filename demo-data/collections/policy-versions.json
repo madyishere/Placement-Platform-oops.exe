@@ -1,0 +1,25 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000010000000000000001"
+    },
+    "name": "DEMO ONLY · Hackathon policy",
+    "approved": true,
+    "bMin": 600000,
+    "aMin": 1000000,
+    "plusMin": 1600000,
+    "selectionBasis": "accepted",
+    "fSwitch": "category",
+    "offCampus": "review",
+    "cSwitch": "higher",
+    "sameCompany": "review",
+    "approvalReference": "DEMO-SIMULATION-NOT-INSTITUTIONAL-APPROVAL",
+    "notes": "Fictional simulation settings; not official institutional policy.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

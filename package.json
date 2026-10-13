@@ -1,0 +1,52 @@
+{
+  "name": "placement-office",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src scripts --max-warnings=0",
+    "generate:types": "payload generate:types",
+    "generate:importmap": "payload generate:importmap",
+    "setup": "node scripts/setup.mjs",
+    "bootstrap": "tsx scripts/bootstrap.ts",
+    "audit:verify": "tsx scripts/verify-audit.ts",
+    "audit:checkpoint": "tsx scripts/checkpoint-audit.ts",
+    "demo:export": "tsx scripts/export-demo.ts",
+    "demo:import": "tsx scripts/import-demo.ts"
+  },
+  "dependencies": {
+    "@payloadcms/db-mongodb": "3.90.2",
+    "@payloadcms/next": "3.90.2",
+    "@payloadcms/ui": "3.90.2",
+    "payload": "3.90.2",
+    "next": "16.4.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "graphql": "^16.11.0",
+    "zod": "^4.3.6",
+    "lucide-react": "^0.468.0",
+    "csv-parse": "7.0.3",
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.21.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.4.0"
+  },
+  "overrides": {
+    "undici": "7.29.1",
+    "sass": "1.105.1",
+    "dompurify": "3.4.17"
+  },
+  "engines": {
+    "node": ">=22.14.0"
+  }
+}

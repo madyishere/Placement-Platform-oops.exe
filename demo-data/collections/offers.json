@@ -1,0 +1,707 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000080000000000000001"
+    },
+    "student": {
+      "$oid": "de0000030000000000000001"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "campusKey": "de0000030000000000000001:de0000060000000000000001",
+    "source": "campus",
+    "type": "F",
+    "ctc": 800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "joined",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000002"
+    },
+    "student": {
+      "$oid": "de0000030000000000000002"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "campusKey": "de0000030000000000000002:de0000060000000000000002",
+    "source": "campus",
+    "type": "F",
+    "ctc": 1200000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "joined",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000003"
+    },
+    "student": {
+      "$oid": "de0000030000000000000003"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000003"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000003"
+    },
+    "campusKey": "de0000030000000000000003:de0000060000000000000003",
+    "source": "campus",
+    "type": "F",
+    "ctc": 1800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "joined",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000004"
+    },
+    "student": {
+      "$oid": "de0000030000000000000004"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "campusKey": "de0000030000000000000004:de0000060000000000000004",
+    "source": "campus",
+    "type": "I",
+    "ctc": null,
+    "stipend": 25000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "joined",
+    "noc": "approved",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000005"
+    },
+    "student": {
+      "$oid": "de0000030000000000000005"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000005"
+    },
+    "campusKey": "de0000030000000000000005:de0000060000000000000005",
+    "source": "campus",
+    "type": "IF",
+    "ctc": 1000000,
+    "stipend": 30000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "pending",
+    "joining": "pending",
+    "noc": "approved",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000006"
+    },
+    "student": {
+      "$oid": "de0000030000000000000006"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "campusKey": "de0000030000000000000006:de0000060000000000000006",
+    "source": "campus",
+    "type": "IF",
+    "ctc": 1400000,
+    "stipend": 35000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "fte",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "approved",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000007"
+    },
+    "student": {
+      "$oid": "de0000030000000000000007"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "campusKey": "de0000030000000000000007:de0000060000000000000007",
+    "source": "campus",
+    "type": "F",
+    "ctc": 500000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000008"
+    },
+    "student": {
+      "$oid": "de0000030000000000000008"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "campusKey": "de0000030000000000000008:de0000060000000000000001",
+    "source": "campus",
+    "type": "F",
+    "ctc": 800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000080000000000000009"
+    },
+    "student": {
+      "$oid": "de0000030000000000000009"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "campusKey": "de0000030000000000000009:de0000060000000000000002",
+    "source": "campus",
+    "type": "F",
+    "ctc": 1200000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000a"
+    },
+    "student": {
+      "$oid": "de000003000000000000000a"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000004"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000004"
+    },
+    "campusKey": "de000003000000000000000a:de0000060000000000000004",
+    "source": "campus",
+    "type": "I",
+    "ctc": null,
+    "stipend": 25000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "accepted",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "pending",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000b"
+    },
+    "student": {
+      "$oid": "de000003000000000000000b"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000005"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000005"
+    },
+    "campusKey": "de000003000000000000000b:de0000060000000000000005",
+    "source": "campus",
+    "type": "IF",
+    "ctc": 1000000,
+    "stipend": 30000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-13T09:36:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-14T09:36:08.686Z"
+    },
+    "acceptance": "pending",
+    "ppo": "pending",
+    "joining": "pending",
+    "noc": "pending",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000c"
+    },
+    "student": {
+      "$oid": "de000003000000000000000c"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000006"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000006"
+    },
+    "campusKey": "de000003000000000000000c:de0000060000000000000006",
+    "source": "campus",
+    "type": "IF",
+    "ctc": 1400000,
+    "stipend": 35000,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "fte",
+    "issuedAt": {
+      "$date": "2026-10-13T09:36:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-14T09:36:08.686Z"
+    },
+    "acceptance": "pending",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "pending",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000d"
+    },
+    "student": {
+      "$oid": "de000003000000000000000d"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "campusKey": "de000003000000000000000d:de0000060000000000000001",
+    "source": "campus",
+    "type": "F",
+    "ctc": 800000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "declined",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000e"
+    },
+    "student": {
+      "$oid": "de000003000000000000000e"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000002"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "campusKey": "de000003000000000000000e:de0000060000000000000002",
+    "source": "campus",
+    "type": "F",
+    "ctc": 1200000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "expired",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000008000000000000000f"
+    },
+    "student": {
+      "$oid": "de000003000000000000000f"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "company": {
+      "$oid": "de0000050000000000000007"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000007"
+    },
+    "campusKey": "de000003000000000000000f:de0000060000000000000007",
+    "source": "campus",
+    "type": "F",
+    "ctc": 500000,
+    "stipend": 0,
+    "stipendPeriod": "monthly",
+    "combinedOutcome": "ppo",
+    "issuedAt": {
+      "$date": "2026-10-03T12:00:08.686Z"
+    },
+    "deadline": {
+      "$date": "2026-10-04T12:00:08.686Z"
+    },
+    "acceptance": "pending",
+    "ppo": "not-applicable",
+    "joining": "pending",
+    "noc": "not-applicable",
+    "revoked": false,
+    "revision": 0,
+    "decision": {
+      "outcome": "ALLOW",
+      "reasons": []
+    },
+    "notes": "Fictional offer; timestamps illustrate lifecycle states.",
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "_id": {
+      "$oid": "de00000b0000000000000001"
+    },
+    "student": {
+      "$oid": "de0000030000000000000011"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000001"
+    },
+    "kind": "absence",
+    "status": "pending",
+    "notes": "Demo absence requires human review. No automatic sanction.",
+    "ruleCodes": [],
+    "excludedDrives": [],
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000b0000000000000002"
+    },
+    "student": {
+      "$oid": "de0000030000000000000012"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000002"
+    },
+    "kind": "absence",
+    "status": "pending",
+    "notes": "Demo absence requires human review. No automatic sanction.",
+    "ruleCodes": [],
+    "excludedDrives": [],
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de00000b0000000000000003"
+    },
+    "student": {
+      "$oid": "de000003000000000000001a"
+    },
+    "session": {
+      "$oid": "de0000020000000000000001"
+    },
+    "drive": {
+      "$oid": "de0000060000000000000008"
+    },
+    "kind": "policy-conflict",
+    "status": "pending",
+    "notes": "Verify academics and obtain annual CTC before authorizing this application.",
+    "ruleCodes": [
+      "VERIFICATION_PENDING",
+      "CTC_UNKNOWN"
+    ],
+    "excludedDrives": [],
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]

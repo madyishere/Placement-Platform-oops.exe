@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-10-13T12:00:08.708Z",
+  "fictional": true,
+  "collections": {
+    "policy-versions": 1,
+    "placement-sessions": 1,
+    "students": 30,
+    "companies": 8,
+    "drives": 10,
+    "registrations": 30,
+    "applications": 30,
+    "offers": 15,
+    "activities": 4,
+    "attendance": 20,
+    "review-cases": 3
+  }
+}

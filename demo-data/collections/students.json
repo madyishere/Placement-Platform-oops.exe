@@ -1,0 +1,542 @@
+[
+  {
+    "_id": {
+      "$oid": "de0000030000000000000001"
+    },
+    "placementID": "DEMO-2027-001",
+    "name": "Aarav Mehta",
+    "email": "student1@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000002"
+    },
+    "placementID": "DEMO-2027-002",
+    "name": "Diya Rao",
+    "email": "student2@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000003"
+    },
+    "placementID": "DEMO-2027-003",
+    "name": "Kabir Shah",
+    "email": "student3@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000004"
+    },
+    "placementID": "DEMO-2027-004",
+    "name": "Ananya Sen",
+    "email": "student4@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000005"
+    },
+    "placementID": "DEMO-2027-005",
+    "name": "Ishaan Nair",
+    "email": "student5@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000006"
+    },
+    "placementID": "DEMO-2027-006",
+    "name": "Meera Joshi",
+    "email": "student6@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000007"
+    },
+    "placementID": "DEMO-2027-007",
+    "name": "Rohan Das",
+    "email": "student7@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000008"
+    },
+    "placementID": "DEMO-2027-008",
+    "name": "Sara Kapoor",
+    "email": "student8@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000009"
+    },
+    "placementID": "DEMO-2027-009",
+    "name": "Vivaan Jain",
+    "email": "student9@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000a"
+    },
+    "placementID": "DEMO-2027-010",
+    "name": "Aditi Bose",
+    "email": "student10@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000b"
+    },
+    "placementID": "DEMO-2027-011",
+    "name": "Arjun Menon",
+    "email": "student11@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000c"
+    },
+    "placementID": "DEMO-2027-012",
+    "name": "Tara Iyer",
+    "email": "student12@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000d"
+    },
+    "placementID": "DEMO-2027-013",
+    "name": "Neel Verma",
+    "email": "student13@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000e"
+    },
+    "placementID": "DEMO-2027-014",
+    "name": "Kavya Sethi",
+    "email": "student14@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000000f"
+    },
+    "placementID": "DEMO-2027-015",
+    "name": "Reyansh Roy",
+    "email": "student15@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000010"
+    },
+    "placementID": "DEMO-2027-016",
+    "name": "Zoya Khan",
+    "email": "student16@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000011"
+    },
+    "placementID": "DEMO-2027-017",
+    "name": "Dev Patel",
+    "email": "student17@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000012"
+    },
+    "placementID": "DEMO-2027-018",
+    "name": "Myra Kulkarni",
+    "email": "student18@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000013"
+    },
+    "placementID": "DEMO-2027-019",
+    "name": "Advik Sinha",
+    "email": "student19@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000014"
+    },
+    "placementID": "DEMO-2027-020",
+    "name": "Siya Bhat",
+    "email": "student20@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000015"
+    },
+    "placementID": "DEMO-2027-021",
+    "name": "Yash Arora",
+    "email": "student21@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000016"
+    },
+    "placementID": "DEMO-2027-022",
+    "name": "Nisha Paul",
+    "email": "student22@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000017"
+    },
+    "placementID": "DEMO-2027-023",
+    "name": "Veer Saxena",
+    "email": "student23@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000018"
+    },
+    "placementID": "DEMO-2027-024",
+    "name": "Avni Desai",
+    "email": "student24@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de0000030000000000000019"
+    },
+    "placementID": "DEMO-2027-025",
+    "name": "Om Malhotra",
+    "email": "student25@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000001a"
+    },
+    "placementID": "DEMO-2027-026",
+    "name": "Riya Dutta",
+    "email": "student26@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000001b"
+    },
+    "placementID": "DEMO-2027-027",
+    "name": "Kunal Vyas",
+    "email": "student27@placement-demo.example",
+    "mobile": "",
+    "course": "M.Tech. AI & DS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000001c"
+    },
+    "placementID": "DEMO-2027-028",
+    "name": "Ira Thomas",
+    "email": "student28@placement-demo.example",
+    "mobile": "",
+    "course": "B.Tech.–M.Tech. CSE",
+    "batch": "2023–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000001d"
+    },
+    "placementID": "DEMO-2027-029",
+    "name": "Pranav Sood",
+    "email": "student29@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. CS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de000003000000000000001e"
+    },
+    "placementID": "DEMO-2027-030",
+    "name": "Leela Varma",
+    "email": "student30@placement-demo.example",
+    "mobile": "",
+    "course": "M.Sc. DFIS",
+    "batch": "2025–2027",
+    "archived": false,
+    "createdAt": {
+      "$date": "2026-09-23T12:00:08.686Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-13T12:00:08.686Z"
+    }
+  }
+]
